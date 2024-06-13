@@ -1,2 +1,3 @@
 git is the free version softwaree
-new version test stage
+new version test stag
+add some changese
