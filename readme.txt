@@ -4,3 +4,4 @@ add some changes
 this is the last update
 new branch test
 create feature 0613
+new confilict --on-ff
